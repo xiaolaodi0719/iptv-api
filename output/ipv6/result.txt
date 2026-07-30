@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-30 07:13:54,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-07-30 20:08:24,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1032,6 +1032,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 上海第一财经,https://iptv.catvod.com/migu?id=608780988&token=49f96d233455b7a7b943f7d1d28a5e42
 上海第一财经,https://iptv.catvod.com/migu?id=608780988&token=505cd2fccd48083e52e8fcdb4f2eab38
 上海第一财经,https://iptv.catvod.com/migu?id=608780988&token=545761e1ce2ad2675e53132c3fd63fe0
+上海第一财经,https://iptv.catvod.com/migu?id=608780988&token=0f15ffc26e83755c72ab2b8139161c3f
 上海纪实,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010067
 上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
 上海纪实,https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-5.m3u8
@@ -1191,6 +1192,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 南通新闻综合,https://iptv.catvod.com/migu?id=955227985&token=c86dd000c5c52ffff24d98ad18ccf8dd
 南通新闻综合,https://iptv.catvod.com/migu?id=955227985&token=e49073981fca25bb13a4c9dd31f456f6
 南通新闻综合,https://iptv.catvod.com/migu?id=955227985&token=1ebdcf31011b2c93f85f99d355cdf493
+南通新闻综合,https://iptv.catvod.com/migu?id=955227985&token=4698e2bc8f407ff3c21a7501e2da4e92
 宜兴新闻,https://stream1.freetv.fun/yi-xing-xin-wen-1.m3u8
 宜兴新闻,https://stream1.freetv.fun/yi-xing-xin-wen-2.m3u8
 宜兴新闻,https://t.freetv.fun/live/yi-xing-xin-wen-1.m3u8
@@ -1198,6 +1200,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 宜兴新闻,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/yxxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260710040233&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=171.8.79.254&SecurityKey=20260710040233&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9f3b0d684e4e01505a59d4ea6c5a04e3&sv=10004&ct=android
 宜兴新闻,http://gslbmgsplive.miguvideo.com/migu/kailu/yxxwzh/51/20250604/index.m3u8?msisdn=3ffe0354aa43bfe82ce915f613e35c8d&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260724062046&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=39.103.188.159&SecurityKey=20260724062046&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=97833a1ac88c0b1bfc7742ea8a5899d9&ddCalcu=99d7v98a93l83a5aa18aace8284c707bc1fb&sv=10004&ct=android
 宜兴新闻,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/yxxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260725040214&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=171.8.79.254&SecurityKey=20260725040214&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=24edd6fd2e3389b0e080c8f575d9272a&sv=10004&ct=android
+宜兴新闻,http://gslbmgsplive.miguvideo.com/migu/kailu/yxxwzh/51/20250604/index.m3u8?msisdn=512fbd4fec8dfecaf0813f534146df0a&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260730062116&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=39.103.182.111&SecurityKey=20260730062116&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=0aa39cedcd705222e08af82df179f91c&ddCalcu=c01av9aaf3l99a7c1efddc2d87f0a58202e2&sv=10004&ct=android
 徐州新聞綜合,http://z.b.bkpcp.top/m.php?id=xzxwzh
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
@@ -1291,6 +1294,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 溧水新闻综合,https://iptv.catvod.com/migu?id=639737327&token=599e56d3357c6d3ef906dacbef360855
 溧水新闻综合,https://iptv.catvod.com/migu?id=639737327&token=33dcf50619a549215c4406e4f9c622e4
 溧水新闻综合,https://iptv.catvod.com/migu?id=639737327&token=ab1e056b309c0917ba4f88cdde3bc5c5
+溧水新闻综合,https://iptv.catvod.com/migu?id=639737327&token=d2ad207e3a70055cbab896b87bf87a5d
 苏州文化生活,https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-2.m3u8
 苏州新闻综合,http://z.b.bkpcp.top/m.php?id=szxwzh
 苏州新闻综合,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-13.m3u8
@@ -1694,6 +1698,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 梨园,https://iptv.catvod.com/migu?id=961930369&token=f4fff97dbbb3fd3cfe671f53d064fc8e
 梨园,https://iptv.catvod.com/migu?id=961930369&token=452971eea00fa278c4fac277590ac247
 梨园,https://iptv.catvod.com/migu?id=961930369&token=7a0e189704d5d51aeb1aa844d47b686a
+梨园,https://iptv.catvod.com/migu?id=961930369&token=5c79987a646c9196bbb054bcfba9e6c9
 临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 义马新闻综合,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 光山综合,http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -2590,6 +2595,7 @@ CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=98eac736f3fe42223aa2ee9ac3dc64f9
 快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=4142bcce4a2c9120052c7564ee3d1775
 快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=1fb167374ce63ea549a926cc0ea52281
+快乐垂钓,http://gslbmgsplive.miguvideo.com/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=917080b5ab6c3e61c8cf2eb7878219c4&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260730062123&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=39.103.188.159&SecurityKey=20260730062123&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e05ebf1235e3c992d628ce121f113bd5&ddCalcu=5ed0vb5a3ea1ba1ff1122315eec38c2969d2&sv=10004&ct=android
 JJ斗地主,https://live.iill.top/douyin/685317364746
 
 🪁动画频道,#genre#
@@ -2612,6 +2618,7 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 新动漫,https://iptv.catvod.com/migu?id=961930269&token=41def6dc14f8576c38c7e7ae00f0f748
 新动漫,https://iptv.catvod.com/migu?id=961930269&token=15662cd8a905862040da923ead3ffb8f
 新动漫,https://iptv.catvod.com/migu?id=961930269&token=7e781a4758e8ec6647b705cd907af1df
+新动漫,https://iptv.catvod.com/migu?id=961930269&token=231cb72c889cf28ee5bce48871596161
 青春动漫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288008/index.m3u8?channel-id=bestzb&Contentid=5000000011000288008&livemode=1&stbId=YanG-1989
 青春动漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
 爱动漫,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630
