@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-02 07:07:51,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-08-02 19:36:38,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1702,6 +1702,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 梨园,https://iptv.catvod.com/migu?id=961930369&token=5c79987a646c9196bbb054bcfba9e6c9
 梨园,https://iptv.catvod.com/migu?id=961930369&token=72b95ba747dc1825a5485bb880c7fc9d
 梨园,https://iptv.catvod.com/migu?id=961930369&token=9894ad3b564c9c41a00163ae1431eba4
+梨园,https://iptv.catvod.com/migu?id=961930369&token=e283d88fedde595447bf4fc0462f93fa
 临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 义马新闻综合,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 光山综合,http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -2624,6 +2625,7 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 新动漫,https://iptv.catvod.com/migu?id=961930269&token=231cb72c889cf28ee5bce48871596161
 新动漫,https://iptv.catvod.com/migu?id=961930269&token=38a659ad0947ea63cd0cb7e47c0f455b
 新动漫,https://iptv.catvod.com/migu?id=961930269&token=2972385370d8622174482e12bd926b86
+新动漫,https://iptv.catvod.com/migu?id=961930269&token=e35b8853eccf380043ab0de3818e841f
 青春动漫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288008/index.m3u8?channel-id=bestzb&Contentid=5000000011000288008&livemode=1&stbId=YanG-1989
 青春动漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
 爱动漫,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630
