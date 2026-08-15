@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-15 06:37:11,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-08-15 18:39:17,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1446,6 +1446,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 湖北垄上,https://stream1.freetv.fun/hu-bei-long-shang-9.ctv
 湖北垄上,https://stream1.freetv.fun/hu-bei-long-shang-1.ctv
 湖北垄上,https://stream1.freetv.fun/hu-bei-long-shang-2.ctv
+湖北垄上,https://t.freetv.fun/live/hu-bei-long-shang.m3u8
 武汉一台新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
 武汉一台新闻综合,https://stream1.freetv.fun/wu-yi-xin-wen-zong-he-7.m3u8
 武汉一台新闻综合,https://stream1.freetv.fun/wu-yi-1xin-wen-zong-he-1.m3u8

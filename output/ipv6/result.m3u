@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/xiaolaodi0719/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-08-15 06:37:11
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-08-15 18:39:17
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2845,6 +2845,8 @@ https://stream1.freetv.fun/hu-bei-long-shang-9.ctv
 https://stream1.freetv.fun/hu-bei-long-shang-1.ctv
 #EXTINF:-1 tvg-name="湖北垄上" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北垄上.png" group-title="☘️湖北频道",湖北垄上
 https://stream1.freetv.fun/hu-bei-long-shang-2.ctv
+#EXTINF:-1 tvg-name="湖北垄上" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北垄上.png" group-title="☘️湖北频道",湖北垄上
+https://t.freetv.fun/live/hu-bei-long-shang.m3u8
 #EXTINF:-1 tvg-name="武汉一台新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武汉一台新闻综合.png" group-title="☘️湖北频道",武汉一台新闻综合
 https://ls.qingting.fm/live/20198/64k.m3u8
 #EXTINF:-1 tvg-name="武汉一台新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武汉一台新闻综合.png" group-title="☘️湖北频道",武汉一台新闻综合
