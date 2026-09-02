@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-02 08:02:35,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-09-02 22:21:43,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2813,3 +2813,4 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
 射雕英雄传,https://live.metshop.top/huya/23824164
+射雕英雄传,https://live.ottiptv.cc/huya/23824164
